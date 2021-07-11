@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.mlr_300{
+	margin-left: 35%;
+	margin-right: 35%;
+}
+.h_box{
+	margin-left: 5%;
+	margin-right: 35%;
+}
+.box{
+	min-height: 100px;
+	background: blue;
+}
+.box1{
+	min-height: 100px;
+	background: green;
+}
+.box2{
+	min-height: 100px;
+	background: cyan;
+}
+.box3{
+	min-height: 100px;
+	background: tomato;
+}
+.img_one{
+	width: 300px;
+	height: 300px;
+}
+
